@@ -2,8 +2,10 @@
 A collection of links and thougths and maybe insights.
 
 # books
-
 * [an introduction to programming in go](http://www.golang-book.com/books/intro)
+
+# websites
+* [govspy.peterbe.com](http://govspy.peterbe.com/)
 
 # blog posts
 * [python vs. go vs. node.js](http://jordanorelli.com/post/31533769172/why-i-went-from-python-to-go-and-not-nodejs)
