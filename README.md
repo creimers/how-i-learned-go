@@ -14,3 +14,6 @@ A collection of links and thougths and maybe insights.
 
 # tutorials
 * [build a wiki](https://golang.org/doc/articles/wiki/)
+
+# SO questions
+* [pointers](https://stackoverflow.com/questions/3552626/what-does-the-asterisk-do-in-go)
